@@ -1,6 +1,14 @@
 # Getanime.js v1.0.0
 Get any anime informations with embed video, trailer, images, synopsys ...
 
+## To install
+```
+npm i dom-parser
+npm i cloudscraper
+npm i request
+npm i request-promise-core
+```
+
 ## How to use ?
 ---
 USAGE:
