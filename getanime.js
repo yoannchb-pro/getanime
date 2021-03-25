@@ -1,11 +1,10 @@
 //Config
 const config = {
     nb_anime: 1,
-    timelaps: 3600000 //1h
 }
 
 //Imports
-const api = require("./lib/api.js");
+const api = require("anime-vostfr");
 const fs = require('fs');
 const cloudscrapper = require("cloudscraper");
 const displayInfo = function(param){console.log("[INFO]  "+param);}

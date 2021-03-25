@@ -1,0 +1,36 @@
+{
+  "name": "getanime",
+  "version": "1.0.1",
+  "description": "CLI to get any anime in a json data file with embed video, images, description ...",
+  "main": "getanime.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "getanime \"./\" \"hunter x hunter\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/getanime.git"
+  },
+  "dependencies": {
+    "anime-vostfr": "1.2.2"
+  },
+  "keywords": [
+    "getanime",
+    "anime",
+    "vostfr",
+    "fr",
+    "streaming",
+    "json",
+    "data",
+    "api",
+    "video"
+  ],
+  "author": "yoannchb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannchb-pro/getanime/issues"
+  },
+  "homepage": "https://github.com/yoannchb-pro/getanime#readme"
+}

@@ -1,0 +1,536 @@
+{
+    "id": 101,
+    "title": "Fullmetal Alchemist",
+    "title_english": "Fullmetal Alchemist",
+    "title_romanji": "Hagane no Renkinjutsushi",
+    "others": "Full Metal Alchemist Fullmetal Alchemist 2003 FMA FMA 03 Hagane no Renkinjutsushi",
+    "type": "tv",
+    "status": "2",
+    "popularity": 10.692087278241505,
+    "genres": [
+        "action",
+        "adventure",
+        "comedy",
+        "drama",
+        "fantasy"
+    ],
+    "url_image": "https://cdn11.neko-sama.xyz/2/225JIuceUuj.jpg",
+    "score": "4.21",
+    "start_date_year": "2003",
+    "nb_eps": "51 Eps",
+    "synop": "\nL&#039;alchimie réside à la transformation de la matière. Le principe d&#039;équivalence consiste en le fait qu&#039;il n&#039;est pas possible de créer quelque chose à partir de rien, pour obtenir quelque chose, il faut impérativement sacrifier quelque chose de même valeur...\nL&#039;histoire suit les aventures de deux frères, Edward et Alphonse Elric. Après le décès de leur mère, ceux-ci décident d&#039;apprendre l&#039;alchimie dans le but de la ressusciter, en dépit qu&#039;il s&#039;agisse de l&#039;interdit ultime en alchimie.\nLeur expérience se solde par un échec et voit même pour Alphonse, la perte de son corp, et pour Edward la perte de sa jambe gauche. Néanmoins, Edward réussie à installer l&#039;esprit d&#039;Alphonse dans une vieille armure.\nDans leurs but de retrouver leurs corps respectifs, les deux frères se retrouvent à se mettre à la recherche de la pierre philosophale, pierre aux pouvoirs immense et qui devrait leurs permettre de récupérer leurs corps.\nDans le but d&#039;avoir d&#039;avantage d&#039;accès pour leurs recherches, Edward se laisse enrôler dans l’armée en tant que alchimie d&#039;état, alchimistes au service de l&#039;armée. Celui-ci se voit attribuer un titre personnel, comme tout alchimiste d&#039;état, celui de &quot;Full Metal Alchemist&quot;.\n",
+    "banner": "https://cdn30.neko-sama.xyz/0/2254eeour6t.jpg",
+    "trailer": "https://www.youtube.com/embed/NR5HHcLPulc?enablejsapi=1",
+    "eps": [
+        {
+            "time": "25 min",
+            "episode": "Ep. 1",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-1-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/14M7mDklqkGgbpv",
+                "https://embed.mystream.to/1ontsges7n5i"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 2",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-2-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/0QKv1wB4DDa5BMR",
+                "https://embed.mystream.to/jkdnq900yhyr"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 3",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-3-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/da7x2zE4ww2xbAl",
+                "https://embed.mystream.to/6hhyx5n8myqm"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 4",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-4-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/9PO5xnPlWwrgbmG",
+                "https://embed.mystream.to/m7a2570nzeqq"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 5",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-5-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/kQPzXD2epBOzqXN",
+                "https://embed.mystream.to/gfux8zaipxa0"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 6",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-6-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/NwoxyjP5mGpLAlP",
+                "https://embed.mystream.to/ml3f6rke19ko"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 7",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-7-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/K9Qxmd72NwXzLRa",
+                "https://embed.mystream.to/vbnz4o1n3xoa"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 8",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-8-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/dkPWOV3YdqgEyYN",
+                "https://embed.mystream.to/uda0g47rbigb"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 9",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-9-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/XkL0qnZ4EzkWanw",
+                "https://embed.mystream.to/kypi0k425ipf"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 10",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-10-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/lbmg2wMezZxdJzL",
+                "https://embed.mystream.to/el1okyic8fnl"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 11",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-11-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/d0j5okXJ0AQ5nwZ",
+                "https://embed.mystream.to/s1sgcrgs8hs1"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 12",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-12-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/KE4MG4wDdQJNOZR",
+                "https://embed.mystream.to/qer7nl8eg64o"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 13",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-13-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/MjoL0xMYWkDLJQr",
+                "https://embed.mystream.to/a5qixe2c59jq"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 14",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-14-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/nEk7Bk3NLP6zXY2",
+                "https://embed.mystream.to/sv2hekabn7n1"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 15",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-15-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/KqwLAQZ5AkjLM4Z",
+                "https://embed.mystream.to/3nf1id2fgp4h"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 16",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-16-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/O6ZEvpPaRLazme9",
+                "https://embed.mystream.to/g024g85yctza"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 17",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-17-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/dG1WXP2D3oqWbng",
+                "https://embed.mystream.to/uf3g7l7mo8zo"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 18",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-18-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/d7ZWgnErbkG0ngE",
+                "https://embed.mystream.to/ouqgc4ukz2py"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 19",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-19-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/VnWbQj0k2jv7lRG",
+                "https://embed.mystream.to/wkwno9l3nndj"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 20",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-20-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/l9qEM4xZD9P5BZ4",
+                "https://embed.mystream.to/tn8w9av1jugq"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 21",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-21-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/VZQBwdP6n2m7mPK",
+                "https://embed.mystream.to/6nm1ea3z58pe"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 22",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-22-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/nbzgMGdJlkm5xqj",
+                "https://embed.mystream.to/pq3lmakg2sp2"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 23",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-23-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/WEPBkR3g279zY8b",
+                "https://embed.mystream.to/49vrzbdvto98"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 24",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-24-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/a4b6Vn1jgx56myo",
+                "https://embed.mystream.to/fpxpzn7e5tfw"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 25",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-25-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/VAbzvpPGwMLE08x",
+                "https://embed.mystream.to/mvkkknffu5oj"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 26",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-26-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/xNqLMV6jdNDEe09",
+                "https://embed.mystream.to/jfsprxlc5os0"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 27",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-27-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/YDX0daYQBoGWlMq",
+                "https://embed.mystream.to/zjqlztmw3ohg"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 28",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-28-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/ExW7xgPvBeB0JeD",
+                "https://embed.mystream.to/frbo2vbrjjpn"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 29",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-29-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/XRjdO3W45xjdnKG",
+                "https://embed.mystream.to/uhfocqzh9fuu"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 30",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-30-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/m9VMy5Pd459MqZk",
+                "https://embed.mystream.to/ue7501n89e8f"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 31",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-31-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/4d0gopXz4wVLzVY",
+                "https://embed.mystream.to/84c9jh0xe75n"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 32",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-32-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/E0JBVG12nGzxvbP",
+                "https://embed.mystream.to/khgzntw6zmtu"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 33",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-33-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/N0JEYmZaNaYEAzX",
+                "https://embed.mystream.to/54zkvobxt20t"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 34",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-34-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/gQ67grLdGroxKJA",
+                "https://embed.mystream.to/9z52ed23rfm4"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 35",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-35-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/aQw76YV9XMwEJZN",
+                "https://embed.mystream.to/o8et6346rbl9"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 36",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-36-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/P7zWADZRwow05mp",
+                "https://embed.mystream.to/h5apd2z55dl9"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 37",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-37-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/NAP5zk4Xdy0J7aw",
+                "https://embed.mystream.to/caega6fy4tz6"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 38",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-38-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/NRjEz4Pr19Dx7BQ",
+                "https://embed.mystream.to/uxl4bthzxai4"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 39",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-39-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/QLGv1928qOovlxa",
+                "https://embed.mystream.to/1svuw2ozmert"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 40",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-40-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/X9pLKGy48lOLY3W",
+                "https://embed.mystream.to/0tk20ehxk9rp"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 41",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-41-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/OYyxy3PYk2oLGbl",
+                "https://embed.mystream.to/yxmzwiauki59"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 42",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-42-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/1bmKxJ89mvMznk4",
+                "https://embed.mystream.to/slb43b5v67gw"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 43",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-43-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/jkLEyjPYkLoly6v",
+                "https://embed.mystream.to/raxewogta0t9"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 44",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-44-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/0eBE0V7Y1wGx6lv",
+                "https://embed.mystream.to/nij8wyv10036"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 45",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-45-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/lRDBVG128G5WYQd",
+                "https://embed.mystream.to/dep0m9moa1ii"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 46",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-46-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/eJY3OYR8A5GB5RO",
+                "https://embed.mystream.to/mymtw6tthmyn"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 47",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-47-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/P37V5ZKMpB0WxM1",
+                "https://embed.mystream.to/jaiuvxfctzci"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 48",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-48-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/bD6w63lQo3NdzlZ",
+                "https://embed.mystream.to/whj90tsqjb95"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 49",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-49-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/KPlg5mER5m2g9z0",
+                "https://embed.mystream.to/i5uiibiweh32"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 50",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-50-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/Ky5LjOdyW3QzO4r",
+                "https://embed.mystream.to/wc3ahtczc4oq"
+            ]
+        },
+        {
+            "time": "25 min",
+            "episode": "Ep. 51",
+            "title": "Fullmetal Alchemist VOSTFR",
+            "url_image": "https://cdn20.neko-sama.xyz/hagane-no-renkinjutsushi-51-vostfr.jpg",
+            "embed": [
+                "https://www.pstream.net/e/OXGV4PMnNN2VWg3",
+                "https://embed.mystream.to/yp43vvjyguu2"
+            ]
+        }
+    ]
+}

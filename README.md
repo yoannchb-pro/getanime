@@ -1,17 +1,21 @@
 # Getanime.js v1.0.0
 Get any anime informations with embed video, trailer, images, synopsys ...
 
-## To install
+## Installation
 ```
+npm install
+```
+OR try
+```
+npm i anime-vostfr
 npm i dom-parser
 npm i cloudscraper
 npm i request
 npm i request-promise-core
 ```
-
 ## How to use ?
 ---
-USAGE:
+USAGE (anime will be generated in the data directory of the project):
 - node getanime.js "hunter x hunter" - to get the anime json file in structured mode
 - node getanime.js "hunter x hunter" false - to get the anime json file in not structured mode (minimified file)
 
