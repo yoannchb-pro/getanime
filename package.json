@@ -14,7 +14,7 @@
     "url": "git+https://github.com/yoannchb-pro/getanime.git"
   },
   "dependencies": {
-    "anime-vostfr": "1.2.2"
+    "anime-vostfr": "1.2.3"
   },
   "keywords": [
     "getanime",
